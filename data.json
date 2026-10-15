@@ -184,14 +184,14 @@
   "home_name": "Daytona Spin Casino",
   "subdomains": null,
   "accent_color": "#d4af37",
-  "main_background": "#03171f",
-  "secondary_background": "#182e37",
-  "button_background": "#ff8108",
-  "button_text_color": "#dcdfe0",
-  "text_color": "#dcdfe0",
-  "color_highlight_text": "#dcdfe0",
-  "color_main_btn_text": "#03171f",
-  "cta_background": "#ff8108",
+  "main_background": "#161217",
+  "secondary_background": "#161217",
+  "button_background": "#ff4166",
+  "button_text_color": "#f7f7f7",
+  "text_color": "#f7f7f7",
+  "color_highlight_text": "#f7f7f7",
+  "color_main_btn_text": "#f7f7f7",
+  "cta_background": "#ff4166",
   "logo": {
     "url": "/uploads/42b6a6824f54db52491449d8d272b615.svg",
     "alt": "daytonaspin logo"
@@ -337,9 +337,9 @@
       "question": "What is the minimum deposit required at Daytona Spin Casino?"
     }
   ],
-  "_generated_at": "2026-10-15T15:09:11.574Z",
+  "_generated_at": "2026-10-15T16:18:55.407Z",
   "_version": "1.0.0",
   "html_head_alt": "daytonaspin baner",
-  "_last_deploy": "2026-10-15T15:09:16.014Z",
-  "_deploy_trigger": "b67u3i"
+  "_last_deploy": "2026-10-15T16:19:00.463Z",
+  "_deploy_trigger": "1a3wyy"
 }
